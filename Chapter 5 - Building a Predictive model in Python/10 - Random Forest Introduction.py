@@ -2,4 +2,4 @@
 import sklearn.ensemble
 
 # Create object of RandomForestClassifier
-model=sklearn.ensemble.RandomForestClassifier
+model=sklearn.ensemble.RandomForestClassifier()
